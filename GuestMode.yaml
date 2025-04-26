@@ -2,7 +2,7 @@
 input_boolean:
   guest_mode:
     name: Guest Mode
-    icon: mdi:hotel
+    icon: mdi:bed
 
 ## Lovelace
 
